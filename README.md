@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Rycs123/Rycs123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi, I'm Riyanda Cavin Sinambela 👋
+### Connect with me: 
+- soon 
 
+### About me
 - 🌱 I’m currently learning Full Stack Development and Cyber Security
 
 ## &#x1f4c8; GitHub Stats
