@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Line Badge](https://img.shields.io/badge/-Riyanda_Sinambela-00B900?style=flat&labelColor=00B900&logo=line&logoColor=white)](https://line.me/ti/p/c2ewNz4E4G)
 [![Linkedin Badge](https://img.shields.io/badge/-Riyanda_Sinambela-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riyanda-cavin-sinambela/) 
-[![Mail Badge](https://img.shields.io/badge/-@riyanda.sinambela-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/i.sanmaulana23_) 
+[![Mail Badge](https://img.shields.io/badge/-@riyanda.sinambela-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/riyanda.sinambela) 
 [![Mail Badge](https://img.shields.io/badge/-riyandasinambela-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:riyanda.c.sinambela@gmail.com)
 
 ### About me
