@@ -67,11 +67,12 @@ Here are some ideas to get you started:
    <a href="https://github.com/Rycs123/">
      <img src="https://github-readme-stats.vercel.app/api?username=Rycs123&show_icons=true&theme=radical" width="450" alt="Rycs123"/>
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rycs123&theme=tokyonight&hide_border=true&date_format=j%20M[%20Y]" width="450" alt="Rycs123"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rycs123&langs_count=10&hide=blade,css,c,html&layout=compact&theme=radical" width="450"  alt="Rycs123"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rycs123&layout=compact&theme=tokyonight" width="450"  alt="Rycs123"/>
      <img src="https://github-profile-trophy.vercel.app/?username=Rycs123&title=MultipleLang,Stars,Followers,Issues,Commits,Puller&row=2&column=3&layout=compact&theme=tokyonight&no-frame=true&no-bg=true" width="450" alt="Rycs123"/>
    </a>
 </div>
 
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rycs123&langs_count=10&hide=blade,css,c,html&layout=compact&theme=radical" width="450"  alt="Rycs123"/> -->
 <!-- ## &#x1f4c8; GitHub Stats
 ![Riyanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rycs123&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rycs123&langs_count=10&hide=blade,css,c,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
