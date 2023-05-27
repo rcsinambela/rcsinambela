@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![Mail Badge](https://img.shields.io/badge/-riyandasinambela-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:riyanda.c.sinambela@gmail.com)
 
 ### About me
-- 🌱 I’m currently learning Full Stack Development and Cyber Security
+- 🌱 I’m currently learning Full Stack Development, Game Developement, and Cyber Security
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
