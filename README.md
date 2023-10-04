@@ -49,7 +49,7 @@ Here are some ideas to get you started:
    ![Node-JS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
    ![Vue-JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
   
-  - **Game Dev & Framework**
+- **Game Dev & Framework**
   
     ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
