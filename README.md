@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 [![Mail Badge](https://img.shields.io/badge/-riyandasinambela-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:riyanda.c.sinambela@gmail.com)
 
 ### About me
-- 🌱 I’m interested in learning Full Stack Development, Game Developement, UI/UX Design, Game Development, and Purple Team.
+- 🏫 Currently an Informatics student at Sepuluh Nopember Institute of Technology.
+- 🌱 I am future IT Developer and I am interested in learning Full Stack Engineer, Game Developement, UI/UX Design, Software Engineer, and Purple Team.
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
