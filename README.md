@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### About me
 - 🏫 Currently an Informatics student at Sepuluh Nopember Institute of Technology.
-- 🌱 I am future IT Developer and I am interested in learning Full Stack Engineer, Game Developement, UI/UX Design, Software Engineer, and Purple Team.
+- 🌱 I am future IT Developer and I am interested in Full Stack Engineer, Game Developement, UI/UX Design, Software Engineer, and Purple Team.
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
