@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Front End, Back End, PenTest, DevOps, and SOC<br><br>🏫 Currently an Informatics student at Sepuluh Nopember Institute of Technology.<br><br>📫 How to reach me riyanda.c.sinambela@gmail.com
+🌱 I’m currently learning Cyber Security and Web<br><br>🏫 Currently an Informatics student at Sepuluh Nopember Institute of Technology.<br><br>📫 How to reach me riyanda.c.sinambela@gmail.com
 
 
 ## 🌐 Socials:
