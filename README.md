@@ -17,17 +17,23 @@
 ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white)
    
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rcsinambela&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rcsinambela&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rcsinambela&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=rcsinambela&show_icons=true&theme=radical&locale=en&layout=compact)
+<br/>
+![](https://github-readme-stats.vercel.app/api?username=rcsinambela&show_icons=true&theme=radical&locale=en)
+<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rcsinambela&theme=dark)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=rcsinambela&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
+
 <img src='https://api.memegen.link/images/pigeon/Engineer/_/Is_this_Photoshop~q.png?style=https://i.imgur.com/W0NXFpQ.png' style="height: 400px;"/>
 
 ---
