@@ -18,11 +18,17 @@
 <a href="https://www.hackerrank.com/@sinambela_rc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sinambela_rc" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rcsinambela&show_icons=true&locale=en&layout=compact" alt="rcsinambela" /></p>
+<p style="display: block; float: left; margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rcsinambela&show_icons=true&locale=en&layout=compact" alt="rcsinambela" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rcsinambela&show_icons=true&locale=en" alt="rcsinambela" /></p>
+<p style="display: block; float: left; margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=rcsinambela&show_icons=true&locale=en" alt="rcsinambela" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rcsinambela&" alt="rcsinambela" /></p>
+<p style="display: block; float: left; margin-right: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcsinambela&" alt="rcsinambela" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rcsinambela/rcsinambela/output/github-contribution-grid-snake-dark.svg">
