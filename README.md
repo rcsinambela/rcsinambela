@@ -31,7 +31,7 @@
 </p>
 
 <p style="display: block; float: left; margin-right: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcsinambela&" alt="rcsinambela" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rcsinambela" alt="rcsinambela" />
 </p>
 
 <picture>
