@@ -8,10 +8,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Implementasi Sistem Keamanan Terpadu dengan Wazuh SIEM, Honeypot Cowrie, IPS/IDS, dan Integrasi…](https://novusnatus.medium.com/tugas-soc-c90660f23d52?source=rss-93ecbc591530------2)
-- [Ansible](https://novusnatus.medium.com/ansible-557a087f1044?source=rss-93ecbc591530------2)
-- [Deploy Multi Container &lpar;Mysql, Laravel, InertiaJs, and Nginx Reverse Proxy&rpar; with Docker Network to…](https://novusnatus.medium.com/deploy-multi-container-mysql-laravel-inertiajs-and-nginx-reverse-proxy-with-docker-network-to-921bc6dfa5fa?source=rss-93ecbc591530------2)
-- [Kenapa Pentingnya mendapatkan Sertifikasi di bidang IT/sebagai programmer](https://novusnatus.medium.com/kenapa-pentingnya-mendapatkan-sertifikasi-di-bidang-it-sebagai-programmer-6324994f0b4e?source=rss-93ecbc591530------2)
+- [Getting Started with CI/CD Using GitHub Action](https://novusnatus.medium.com/getting-started-with-ci-cd-using-github-action-a5b1a1384341?source=rss-93ecbc591530------2)
+- [Step-by-Step Guide to Setting Up Wazuh for Security Monitoring](https://novusnatus.medium.com/step-by-step-guide-to-setting-up-wazuh-for-security-monitoring-a9ab2d7c4243?source=rss-93ecbc591530------2)
+- [Getting Started with Laravel: A Beginner’s Guide](https://novusnatus.medium.com/getting-started-with-laravel-a-beginners-guide-404ab56c5683?source=rss-93ecbc591530------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
