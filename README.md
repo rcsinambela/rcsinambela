@@ -8,10 +8,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Cheatsheet git](https://novusnatus.medium.com/cheatsheet-git-6cf3a9ea96cb?source=rss-93ecbc591530------2)
-- [Skenario Dari Sisi Attacker](https://novusnatus.medium.com/tugas-modul-security-51d3d2cf064b?source=rss-93ecbc591530------2)
 - [Implementasi Sistem Keamanan Terpadu dengan Wazuh SIEM, Honeypot Cowrie, IPS/IDS, dan Integrasi…](https://novusnatus.medium.com/tugas-soc-c90660f23d52?source=rss-93ecbc591530------2)
 - [Ansible](https://novusnatus.medium.com/ansible-557a087f1044?source=rss-93ecbc591530------2)
+- [Deploy Multi Container &lpar;Mysql, Laravel, InertiaJs, and Nginx Reverse Proxy&rpar; with Docker Network to…](https://novusnatus.medium.com/deploy-multi-container-mysql-laravel-inertiajs-and-nginx-reverse-proxy-with-docker-network-to-921bc6dfa5fa?source=rss-93ecbc591530------2)
+- [Kenapa Pentingnya mendapatkan Sertifikasi di bidang IT/sebagai programmer](https://novusnatus.medium.com/kenapa-pentingnya-mendapatkan-sertifikasi-di-bidang-it-sebagai-programmer-6324994f0b4e?source=rss-93ecbc591530------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
