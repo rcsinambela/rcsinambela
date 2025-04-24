@@ -8,10 +8,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [IPC](https://novusnatus.medium.com/ipc-1737aa9166e0?source=rss-93ecbc591530------2)
 - [The Ultimate Git Cheat Sheet for Developers](https://novusnatus.medium.com/the-ultimate-git-cheat-sheet-for-developers-5d1211437389?source=rss-93ecbc591530------2)
 - [Getting Started with CI/CD Using GitHub Action](https://novusnatus.medium.com/getting-started-with-ci-cd-using-github-action-a5b1a1384341?source=rss-93ecbc591530------2)
 - [Step-by-Step Guide to Setting Up Wazuh for Security Monitoring](https://novusnatus.medium.com/step-by-step-guide-to-setting-up-wazuh-for-security-monitoring-a9ab2d7c4243?source=rss-93ecbc591530------2)
+- [Getting Started with Laravel: A Beginner’s Guide](https://novusnatus.medium.com/getting-started-with-laravel-a-beginners-guide-404ab56c5683?source=rss-93ecbc591530------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
