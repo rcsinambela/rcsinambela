@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Riyanda Cavin Sinambela</h1>
+<h1 align="center">Hi 👋, I'm RCS</h1>
 <h3 align="center">I am an Informatics student at Sepuluh Nopember Institute of Technology, 
   <br> with an interest in Cyber Security and Web Development.</h3>
 
