@@ -8,8 +8,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Network Security Assignment](https://novusnatus.medium.com/network-security-assignment-76f455c44bd0?source=rss-93ecbc591530------2)
 - [The Importance of Getting Certified in IT/As a Programmer](https://novusnatus.medium.com/the-importance-of-getting-certified-in-it-as-a-programmer-a01d7b63a616?source=rss-93ecbc591530------2)
-- [Digital Forensics Write Up](https://novusnatus.medium.com/digital-forensics-write-up-f8206d0cf8c1?source=rss-93ecbc591530------2)
 - [The Ultimate Git Cheat Sheet for Developers](https://novusnatus.medium.com/the-ultimate-git-cheat-sheet-for-developers-5d1211437389?source=rss-93ecbc591530------2)
 - [Pengantar Jarkom — IPv6 &lpar;3&rpar;](https://novusnatus.medium.com/pengantar-jarkom-ipv6-3-3d0c28a481bf?source=rss-93ecbc591530------2)
 <!-- BLOG-POST-LIST:END -->
