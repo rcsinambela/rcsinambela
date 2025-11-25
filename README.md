@@ -8,10 +8,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Network Security Assignment](https://novusnatus.medium.com/network-security-assignment-76f455c44bd0?source=rss-93ecbc591530------2)
-- [The Importance of Getting Certified in IT/As a Programmer](https://novusnatus.medium.com/the-importance-of-getting-certified-in-it-as-a-programmer-a01d7b63a616?source=rss-93ecbc591530------2)
-- [The Ultimate Git Cheat Sheet for Developers](https://novusnatus.medium.com/the-ultimate-git-cheat-sheet-for-developers-5d1211437389?source=rss-93ecbc591530------2)
 - [Pengantar Jarkom — IPv6 &lpar;3&rpar;](https://novusnatus.medium.com/pengantar-jarkom-ipv6-3-3d0c28a481bf?source=rss-93ecbc591530------2)
+- [Pengantar Jarkom — IPv4 &lpar;2&rpar;](https://novusnatus.medium.com/pengantar-jarkom-ipv4-2-39d168c4c08b?source=rss-93ecbc591530------2)
+- [Pengantar Jarkom — Fundamental Jaringan Part 1](https://novusnatus.medium.com/pengantar-jaringan-komputer-6b5e050b0b05?source=rss-93ecbc591530------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
