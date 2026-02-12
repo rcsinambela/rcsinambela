@@ -8,10 +8,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stored Cross-Site Scripting &lpar;XSS&rpar; on Forum Post](https://novusnatus.medium.com/stored-cross-site-scripting-xss-on-forum-post-c97e0bc8056d?source=rss-93ecbc591530------2)
 - [Critical Privilege Escalation via Role Manipulation During Registration](https://novusnatus.medium.com/critical-privilege-escalation-via-role-manipulation-during-registration-98141ba84bc9?source=rss-93ecbc591530------2)
 - [Pengantar Jarkom — IPv6 &lpar;3&rpar;](https://novusnatus.medium.com/pengantar-jarkom-ipv6-3-3d0c28a481bf?source=rss-93ecbc591530------2)
 - [Pengantar Jarkom — IPv4 &lpar;2&rpar;](https://novusnatus.medium.com/pengantar-jarkom-ipv4-2-39d168c4c08b?source=rss-93ecbc591530------2)
-- [Pengantar Jarkom — Fundamental Jaringan Part 1](https://novusnatus.medium.com/pengantar-jaringan-komputer-6b5e050b0b05?source=rss-93ecbc591530------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
