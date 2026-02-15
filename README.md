@@ -8,10 +8,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Hidden in Plain Sight – Revealing the Secret Inside an Ordinary JPG](https://novusnatus.medium.com/hidden-in-plain-sight-revealing-the-secret-inside-an-ordinary-jpg-4fa564a9170a?source=rss-93ecbc591530------2)
 - [Riddle Registry – The Hidden Flag Inside PDF Metadata](https://novusnatus.medium.com/riddle-registry-the-hidden-flag-inside-pdf-metadata-5b53100b1f3a?source=rss-93ecbc591530------2)
 - [DISKO 1 – Hidden Flag in a Disk Image](https://novusnatus.medium.com/disko-1-hidden-flag-in-a-disk-image-1338920d2d0e?source=rss-93ecbc591530------2)
 - [Blind Stored Cross-Site Scripting &lpar;XSS&rpar; on User List](https://novusnatus.medium.com/blind-stored-cross-site-scripting-xss-on-user-list-a548f1246841?source=rss-93ecbc591530------2)
-- [Stored Cross-Site Scripting &lpar;XSS&rpar; on Forum Post](https://novusnatus.medium.com/stored-cross-site-scripting-xss-on-forum-post-c97e0bc8056d?source=rss-93ecbc591530------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
